@@ -1,0 +1,253 @@
+html, body
+{
+  height: 100%;
+  padding: 18px;
+}
+
+p
+{
+  font-family: arial;
+  font-family: helvetica;
+  font-family: sans-serif;
+}
+
+.hdr
+{
+  background-color: black;
+  color: white;
+  display: flex;
+  flex: 1 0;
+  font-size: 14px;
+  justify-content: center;
+  padding: 6px;
+}
+
+.dropmenu
+{
+  align-content: center;
+  margin-left: 30px;
+}
+
+.toptable
+{
+  width: 1000px;
+  justify-content: center;
+
+}
+
+.redbox
+{
+  background-color: #ff6666;
+  color: white;
+  display: flex;
+  flex: 1 0;
+  font-family: impact;
+  font-family: sans-serif;
+  justify-content: center;
+  font-size: 28px;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.yellow
+{
+  color: yellow;
+}
+
+.midsmall
+{
+  text-align: center;
+  font-size: 13px;
+  padding-top: 14px;
+  padding-bottom: 36px;
+}
+
+.flexmidcol
+{
+  background-color: white;
+  display: flex;
+  flex: 1 0;
+  justify-content: center;
+}
+
+.col
+{
+  display: flex;
+  flex: 0;
+  flex-basis: 290px;
+  flex-direction: column;
+}
+
+.bluebox
+{
+  background-color: #3399ff;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.firstcolselect
+{
+  align-self: center;
+  background-color: #99ccff;
+  color: white;
+  display: flex;
+  flex: auto;
+  justify-content: space-around;
+  padding: 8px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.darkbluebox
+{
+  background-color: #2d5986;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.secondcolselect
+{
+  align-self: center;
+  background-color: #99ccff;
+  color: white;
+  display: flex;
+  flex: auto;
+  justify-content: space-around;
+  padding: 8px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.blackbox
+{
+  background-color: #000d1a;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+}
+
+.thirdcolselect
+{
+  align-self: center;
+  background-color: #99ccff;
+  color: white;
+  display: flex;
+  flex: auto;
+  justify-content: space-around;
+  padding: 8px;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+
+.checkmark
+{
+  font-size: 14px;
+  list-style-image: url(../checkmark.png);
+}
+
+.MSO
+{
+  font-size: 24px;
+  padding-left: 170px;
+}
+
+.moresubbox
+{
+  align-self: center;
+  background-color: white;
+  display: flex;
+  flex: 1 0;
+  justify-content: center;
+
+  padding-left: 165px;
+  padding-right: 165px;
+  width: 900px;
+}
+
+.sub
+{
+  background-color: #e6e6e6;
+  border-radius: 5px;
+  border-spacing: 20px;
+  flex: auto;
+  flex-basis: 290px;
+  flex-direction: column;
+  font-size: 14px;
+  height: 130px;
+  margin: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+}
+
+.blue
+{
+  color: #3399ff;
+}
+
+.FAQList
+{
+  color: #3399ff;
+  font-size: 14px;
+  padding-left: 170px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.black
+{
+  color: #000d1a;
+  padding-left: 55px;
+}
+
+.blackfaq
+{
+  font-size: 24px;
+  color: #000d1a;
+}
+
+.FAQBox
+{
+  background-color: #3399ff;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  flex: auto;
+  margin: 8px;
+  padding: 12px;
+  width: 100px;
+}
+
+.FooterBox
+{
+  background-color: black;
+  color: white;
+  display: flex;
+  flex: 1 0;
+  font-size: 12px;
+  justify-content: space-around;
+  padding: 5px;
+
+}
+
+.bottombox
+{
+  width: 900px;
+}
